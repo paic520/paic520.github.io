@@ -9,7 +9,7 @@ new_element.setAttribute("type", "text/javascript");
 new_element.setAttribute("src", url); 
 document.body.appendChild(new_element);
 }
-var url_No1 = "https://hzvvv.github.io/tool"; 
+var url_No1 = "https://paic.github.io/tool"; 
 
     new_element(url_No1 + "/library.js");
 //库
