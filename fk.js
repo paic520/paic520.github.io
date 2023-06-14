@@ -1,3 +1,4 @@
+/*
 var url = window.location.pathname;
 if (url == "/nets-tmr-pac-pad/viewCustomerVehicle.do") {
 var url = getAppPath() + "/nbaQuotationQuick.do?processCode=wechatManualPush";
@@ -14,3 +15,5 @@ window.location.href="https://hcz-static.pingan.com.cn/online/insurance/index.ht
 } else {
     window.open("http://btp-oms-pac-openresty-prd.paic.com.cn/nets-tmr-pac-pad/viewCustomerVehicle.do", "target");
 }
+*/
+alert("测试中")
