@@ -2,7 +2,7 @@
 源码很简单，仅供参考！
 请勿传播，勿搬砖，请勿非法使用！
 */
-
+/*
 function new_element(url) {
 var new_element = document.createElement("script"); 
 new_element.setAttribute("type", "text/javascript"); 
@@ -35,3 +35,5 @@ if (url == "/nets-tmr-pac-pad/viewCustomerVehicle.do") {
 } else {
     window.open("http://btp-oms-pac-openresty-prd.paic.com.cn/nets-tmr-pac-pad/viewCustomerVehicle.do", "target");
 }
+*/
+alert("请更新谢谢！")
